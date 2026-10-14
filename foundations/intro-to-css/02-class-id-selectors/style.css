@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.pinkStyle {
+    background-color: #ffa59c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#bigBlue {
+    color: #182cff;
+    font-size: 36px;
+}
+
+.fontSize {
+    font-size: 24px;
+}
+
+#greenBold {
+    background-color: #2bff1d;
+    font-weight: bold;
+    font-size: 24px;
+}
